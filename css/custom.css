@@ -1,0 +1,33 @@
+#sidHeader {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:10%;
+}
+
+.sectionHeader, .projectHeader {
+	
+	text-transform: uppercase;
+	font-size: 1.6em;
+}
+
+.sectionHeader {	
+	margin-bottom:-10px;
+	margin-top:40px;
+	border-bottom: 1px solid #c7c7c7;
+}
+
+.projectImage {
+	padding-top:10px;
+	min-width:50%;
+}
+
+a {
+	color: #1EC53A;
+	text-decoration: none;
+}
+
+a.primary {
+	font-weight:700;
+}
+
