@@ -52,6 +52,8 @@
 
 /* For devices larger than 550px */
 @media (min-width: 1000px) {
+  .projectImage {
+    padding-right:30px;}
   .container {
     width: 80%; }
   .column,
