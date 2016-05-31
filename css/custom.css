@@ -21,8 +21,8 @@
 .projectImage {
 	padding-top:10px;
 	min-width:50%;
-	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(250, 250, 250, 0.3)));
-}
+/*	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(250, 250, 250, 0.3)));
+*/}
 
 a {
 	color: #1EC53A;
